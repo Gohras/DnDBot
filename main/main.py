@@ -1,6 +1,6 @@
 from telegram import *
 
-updater = Updater(token="TOKEN")
+updater = Updater(token="727102457:AAGMqvQEzyfewg8aGNWQg_SMgu03V9HkuFY")
 dispatcher = updater.dispatcher
 
 characterList = []
