@@ -1,7 +1,7 @@
 from random import randint 
 from telegram import *
 
-updater = Updater(token="TOKEN")
+updater = Updater(token="727102457:AAGMqvQEzyfewg8aGNWQg_SMgu03V9HkuFY")
 dispatcher = updater.dispatcher
 
 # D4, D6, D8, D10, D12, D20
